@@ -1,0 +1,261 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  min-height: 34px;
+}
+
+.progress {
+  flex: 1;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.progressText {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.progressText strong {
+  color: var(--text);
+}
+
+.progressTrack {
+  height: 8px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: inherit;
+  transition: width 0.3s ease;
+}
+
+.streak {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--warning-soft);
+  color: var(--warning);
+  font-weight: 700;
+  font-size: 0.85rem;
+  animation: pop 0.3s ease;
+}
+
+@keyframes pop {
+  from {
+    transform: scale(0.85);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.timer {
+  position: relative;
+  width: 54px;
+  height: 54px;
+  flex-shrink: 0;
+  color: var(--accent);
+}
+
+.timerUrgent {
+  color: var(--danger);
+}
+
+.timerRing {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.timerBg {
+  fill: none;
+  stroke: var(--surface-2);
+  stroke-width: 3.5;
+}
+
+.timerArc {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 3.5;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.1s linear;
+}
+
+.timerValue {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.question {
+  font-size: 1.35rem;
+  line-height: 1.4;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px;
+  border-radius: 12px;
+  border: 1.5px solid var(--border);
+  background: var(--surface-2);
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease, opacity 0.15s ease;
+}
+
+.option:disabled {
+  cursor: default;
+}
+
+.idle:hover:not(:disabled) {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.letter {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  display: grid;
+  place-items: center;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.optionText {
+  font-weight: 500;
+}
+
+.correct {
+  border-color: var(--success);
+  background: var(--success-soft);
+}
+
+.correct .letter {
+  background: var(--success);
+  border-color: var(--success);
+  color: var(--surface);
+}
+
+.wrong {
+  border-color: var(--danger);
+  background: var(--danger-soft);
+}
+
+.wrong .letter {
+  background: var(--danger);
+  border-color: var(--danger);
+  color: var(--surface);
+}
+
+.dimmed {
+  opacity: 0.55;
+}
+
+.feedback {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  border: 1px solid;
+  animation: pop 0.25s ease;
+}
+
+.feedback_success {
+  background: var(--success-soft);
+  border-color: var(--success);
+}
+
+.feedback_danger {
+  background: var(--danger-soft);
+  border-color: var(--danger);
+}
+
+.feedbackTitle {
+  font-weight: 700;
+}
+
+.feedback_success .feedbackTitle {
+  color: var(--success);
+}
+
+.feedback_danger .feedbackTitle {
+  color: var(--danger);
+}
+
+.feedbackText {
+  margin-top: 2px;
+  font-size: 0.92rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  border-top: 1px solid var(--border);
+  padding-top: 12px;
+}
+
+@media (max-width: 560px) {
+  .options {
+    grid-template-columns: 1fr;
+  }
+
+  .question {
+    font-size: 1.15rem;
+  }
+
+  .feedback {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

@@ -1,0 +1,587 @@
+[
+  {
+    "id": "geo-01",
+    "category": "Geografie",
+    "difficulty": "ușor",
+    "question": "Care este cel mai mare ocean de pe Pământ?",
+    "options": [
+      "Oceanul Pacific",
+      "Oceanul Atlantic",
+      "Oceanul Indian",
+      "Oceanul Arctic"
+    ],
+    "answer": "Oceanul Pacific"
+  },
+  {
+    "id": "geo-02",
+    "category": "Geografie",
+    "difficulty": "ușor",
+    "question": "Care este capitala Canadei?",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Montreal",
+      "Vancouver"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "id": "geo-03",
+    "category": "Geografie",
+    "difficulty": "ușor",
+    "question": "Care este cel mai înalt vârf muntos din lume?",
+    "options": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Mont Blanc"
+    ],
+    "answer": "Everest"
+  },
+  {
+    "id": "geo-04",
+    "category": "Geografie",
+    "difficulty": "ușor",
+    "question": "Care este cel mai mare deșert cald din lume?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Atacama"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "id": "geo-05",
+    "category": "Geografie",
+    "difficulty": "ușor",
+    "question": "Cu câte state se învecinează Republica Moldova?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "geo-06",
+    "category": "Geografie",
+    "difficulty": "ușor",
+    "question": "Care este cel mai mic stat din lume ca suprafață?",
+    "options": [
+      "Vatican",
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican"
+  },
+  {
+    "id": "geo-07",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este capitala Australiei?",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": "geo-08",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este cel mai lung fluviu din Europa?",
+    "options": [
+      "Volga",
+      "Dunărea",
+      "Nipru",
+      "Rin"
+    ],
+    "answer": "Volga"
+  },
+  {
+    "id": "geo-09",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este cel mai înalt vârf din România?",
+    "options": [
+      "Moldoveanu",
+      "Negoiu",
+      "Omu",
+      "Pietrosul Rodnei"
+    ],
+    "answer": "Moldoveanu"
+  },
+  {
+    "id": "geo-10",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este cel mai mare lac din Africa?",
+    "options": [
+      "Lacul Victoria",
+      "Lacul Tanganyika",
+      "Lacul Malawi",
+      "Lacul Ciad"
+    ],
+    "answer": "Lacul Victoria"
+  },
+  {
+    "id": "geo-11",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "În ce țară se află situl Machu Picchu?",
+    "options": [
+      "Peru",
+      "Bolivia",
+      "Chile",
+      "Ecuador"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": "geo-12",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Ce strâmtoare separă Europa de Africa?",
+    "options": [
+      "Strâmtoarea Gibraltar",
+      "Strâmtoarea Bosfor",
+      "Strâmtoarea Dardanele",
+      "Strâmtoarea Magellan"
+    ],
+    "answer": "Strâmtoarea Gibraltar"
+  },
+  {
+    "id": "geo-13",
+    "category": "Geografie",
+    "difficulty": "dificil",
+    "question": "Care este cel mai adânc lac din lume?",
+    "options": [
+      "Lacul Baikal",
+      "Lacul Tanganyika",
+      "Marea Caspică",
+      "Lacul Superior"
+    ],
+    "answer": "Lacul Baikal"
+  },
+  {
+    "id": "geo-14",
+    "category": "Geografie",
+    "difficulty": "dificil",
+    "question": "Care este capitala Kazahstanului?",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Bișkek",
+      "Tașkent"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": "geo-15",
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este capitala Turciei?",
+    "options": [
+      "Ankara",
+      "Istanbul",
+      "Izmir",
+      "Antalya"
+    ],
+    "answer": "Ankara"
+  },
+  {
+    "id": "ist-01",
+    "category": "Istorie",
+    "difficulty": "ușor",
+    "question": "În ce an a căzut Zidul Berlinului?",
+    "options": [
+      "1989",
+      "1991",
+      "1985",
+      "1961"
+    ],
+    "answer": "1989"
+  },
+  {
+    "id": "ist-02",
+    "category": "Istorie",
+    "difficulty": "ușor",
+    "question": "Cine a fost primul om care a pășit pe Lună?",
+    "options": [
+      "Neil Armstrong",
+      "Iuri Gagarin",
+      "Buzz Aldrin",
+      "Michael Collins"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": "ist-03",
+    "category": "Istorie",
+    "difficulty": "ușor",
+    "question": "În ce an și-a proclamat independența Republica Moldova?",
+    "options": [
+      "1991",
+      "1989",
+      "1990",
+      "1994"
+    ],
+    "answer": "1991"
+  },
+  {
+    "id": "ist-04",
+    "category": "Istorie",
+    "difficulty": "ușor",
+    "question": "Care domnitor a condus Moldova între anii 1457 și 1504?",
+    "options": [
+      "Ștefan cel Mare",
+      "Petru Rareș",
+      "Alexandru cel Bun",
+      "Vasile Lupu"
+    ],
+    "answer": "Ștefan cel Mare"
+  },
+  {
+    "id": "ist-05",
+    "category": "Istorie",
+    "difficulty": "ușor",
+    "question": "În ce an a început Primul Război Mondial?",
+    "options": [
+      "1914",
+      "1918",
+      "1912",
+      "1939"
+    ],
+    "answer": "1914"
+  },
+  {
+    "id": "ist-06",
+    "category": "Istorie",
+    "difficulty": "ușor",
+    "question": "În ce an s-a încheiat Al Doilea Război Mondial?",
+    "options": [
+      "1945",
+      "1944",
+      "1946",
+      "1939"
+    ],
+    "answer": "1945"
+  },
+  {
+    "id": "ist-07",
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Ce civilizație a fondat orașul Tenochtitlan, pe locul actualului Ciudad de México?",
+    "options": [
+      "Aztecii",
+      "Incașii",
+      "Mayașii",
+      "Olmecii"
+    ],
+    "answer": "Aztecii"
+  },
+  {
+    "id": "ist-08",
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Cine a fost primul împărat roman?",
+    "options": [
+      "Augustus",
+      "Iulius Cezar",
+      "Nero",
+      "Traian"
+    ],
+    "answer": "Augustus"
+  },
+  {
+    "id": "ist-09",
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "În ce an a ajuns Cristofor Columb în America?",
+    "options": [
+      "1492",
+      "1498",
+      "1453",
+      "1519"
+    ],
+    "answer": "1492"
+  },
+  {
+    "id": "ist-10",
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "În ce an a avut loc Unirea Moldovei cu Țara Românească sub Alexandru Ioan Cuza?",
+    "options": [
+      "1859",
+      "1848",
+      "1877",
+      "1918"
+    ],
+    "answer": "1859"
+  },
+  {
+    "id": "ist-11",
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Ce împărat roman a cucerit Dacia?",
+    "options": [
+      "Traian",
+      "Hadrian",
+      "Augustus",
+      "Marcus Aurelius"
+    ],
+    "answer": "Traian"
+  },
+  {
+    "id": "ist-12",
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "În ce an a început Revoluția Franceză?",
+    "options": [
+      "1789",
+      "1799",
+      "1776",
+      "1815"
+    ],
+    "answer": "1789"
+  },
+  {
+    "id": "ist-13",
+    "category": "Istorie",
+    "difficulty": "dificil",
+    "question": "Cine este principalul autor al Declarației de Independență a SUA?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin",
+      "John Adams"
+    ],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": "ist-14",
+    "category": "Istorie",
+    "difficulty": "dificil",
+    "question": "În ce an a avut loc bătălia de la Waterloo?",
+    "options": [
+      "1815",
+      "1805",
+      "1812",
+      "1821"
+    ],
+    "answer": "1815"
+  },
+  {
+    "id": "ist-15",
+    "category": "Istorie",
+    "difficulty": "dificil",
+    "question": "În ce an a fost cucerit Constantinopolul de către otomani?",
+    "options": [
+      "1453",
+      "1389",
+      "1492",
+      "1526"
+    ],
+    "answer": "1453"
+  },
+  {
+    "id": "sti-01",
+    "category": "Știință",
+    "difficulty": "ușor",
+    "question": "Care este simbolul chimic al aurului?",
+    "options": [
+      "Au",
+      "Ag",
+      "Ar",
+      "Go"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": "sti-02",
+    "category": "Știință",
+    "difficulty": "ușor",
+    "question": "Care este planeta cea mai apropiată de Soare?",
+    "options": [
+      "Mercur",
+      "Venus",
+      "Marte",
+      "Pământ"
+    ],
+    "answer": "Mercur"
+  },
+  {
+    "id": "sti-03",
+    "category": "Știință",
+    "difficulty": "ușor",
+    "question": "Care este cea mai mare planetă din Sistemul Solar?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptun",
+      "Uranus"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "sti-04",
+    "category": "Știință",
+    "difficulty": "ușor",
+    "question": "Cine a formulat teoria relativității?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": "sti-05",
+    "category": "Știință",
+    "difficulty": "ușor",
+    "question": "Care este cel mai dur mineral natural pe scara Mohs?",
+    "options": [
+      "Diamantul",
+      "Cuarțul",
+      "Topazul",
+      "Corindonul"
+    ],
+    "answer": "Diamantul"
+  },
+  {
+    "id": "sti-06",
+    "category": "Știință",
+    "difficulty": "ușor",
+    "question": "Ce particulă subatomică are sarcină electrică negativă?",
+    "options": [
+      "Electronul",
+      "Protonul",
+      "Neutronul",
+      "Nucleul"
+    ],
+    "answer": "Electronul"
+  },
+  {
+    "id": "sti-07",
+    "category": "Știință",
+    "difficulty": "mediu",
+    "question": "Câte oase are scheletul unui om adult?",
+    "options": [
+      "206",
+      "212",
+      "198",
+      "300"
+    ],
+    "answer": "206"
+  },
+  {
+    "id": "sti-08",
+    "category": "Știință",
+    "difficulty": "mediu",
+    "question": "Care este, aproximativ, viteza luminii în vid?",
+    "options": [
+      "300 000 km/s",
+      "30 000 km/s",
+      "3 000 km/s",
+      "3 000 000 km/s"
+    ],
+    "answer": "300 000 km/s"
+  },
+  {
+    "id": "sti-09",
+    "category": "Știință",
+    "difficulty": "mediu",
+    "question": "Care este gazul cel mai abundent din atmosfera Pământului?",
+    "options": [
+      "Azotul",
+      "Oxigenul",
+      "Dioxidul de carbon",
+      "Argonul"
+    ],
+    "answer": "Azotul"
+  },
+  {
+    "id": "sti-10",
+    "category": "Știință",
+    "difficulty": "mediu",
+    "question": "Care este unitatea de măsură a forței în Sistemul Internațional?",
+    "options": [
+      "Newtonul",
+      "Joule-ul",
+      "Watt-ul",
+      "Pascalul"
+    ],
+    "answer": "Newtonul"
+  },
+  {
+    "id": "sti-11",
+    "category": "Știință",
+    "difficulty": "mediu",
+    "question": "Ce organit celular produce cea mai mare parte a energiei (ATP)?",
+    "options": [
+      "Mitocondria",
+      "Ribozomul",
+      "Nucleul",
+      "Aparatul Golgi"
+    ],
+    "answer": "Mitocondria"
+  },
+  {
+    "id": "sti-12",
+    "category": "Știință",
+    "difficulty": "mediu",
+    "question": "Cine a descoperit penicilina?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Marie Curie"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": "sti-13",
+    "category": "Știință",
+    "difficulty": "dificil",
+    "question": "Care este numărul atomic al carbonului?",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "sti-14",
+    "category": "Știință",
+    "difficulty": "dificil",
+    "question": "La ce temperatură, în grade Fahrenheit, fierbe apa la presiune atmosferică normală?",
+    "options": [
+      "212 °F",
+      "100 °F",
+      "180 °F",
+      "273 °F"
+    ],
+    "answer": "212 °F"
+  },
+  {
+    "id": "sti-15",
+    "category": "Știință",
+    "difficulty": "dificil",
+    "question": "Ce element chimic are simbolul K?",
+    "options": [
+      "Potasiul",
+      "Calciul",
+      "Kriptonul",
+      "Carbonul"
+    ],
+    "answer": "Potasiul"
+  }
+]
